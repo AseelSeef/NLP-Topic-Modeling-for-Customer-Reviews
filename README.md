@@ -104,4 +104,4 @@ Only the source code and methodology are included in this repository. No proprie
 
 **Aseel Seef Azmy**
 
-- LinkedIn: [https://www.linkedin.com/in/aseel-seef-ab1778178/](https://www.linkedin.com/in/aseel-seef-azmy/)
+- LinkedIn:https://www.linkedin.com/in/aseel-seef-azmy/
