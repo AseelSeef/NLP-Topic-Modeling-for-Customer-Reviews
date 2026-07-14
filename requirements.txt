@@ -1,0 +1,15 @@
+bertopic
+gensim
+matplotlib
+nltk
+numpy
+ollama
+openpyxl
+pandas
+pyLDAvis
+scikit-learn
+sentence-transformers
+tensorflow
+torch
+transformers
+wordcloud
