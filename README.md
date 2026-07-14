@@ -117,3 +117,10 @@ Then download the required model:
 ```bash
 ollama pull phi4-mini
 ```
+---
+
+## Author
+
+**Aseel Seef Azmy**
+
+- LinkedIn: [https://www.linkedin.com/in/aseel-seef-azmy/](https://www.linkedin.com/in/aseel-seef-azmy/)
