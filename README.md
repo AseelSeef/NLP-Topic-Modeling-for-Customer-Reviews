@@ -99,3 +99,21 @@ The original dataset used for this project cannot be shared publicly because it 
 Only the source code and methodology are included in this repository. No proprietary data, review content, company identifiers, or generated outputs are distributed.
 
 ---
+
+## Installation
+
+Install the required Python packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+If you want to run the LLM section, install **Ollama** from:
+
+https://ollama.com/download
+
+Then download the required model:
+
+```bash
+ollama pull phi4-mini
+```
