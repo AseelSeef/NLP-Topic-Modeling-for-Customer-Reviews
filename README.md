@@ -99,9 +99,3 @@ The original dataset used for this project cannot be shared publicly because it 
 Only the source code and methodology are included in this repository. No proprietary data, review content, company identifiers, or generated outputs are distributed.
 
 ---
-
-## Author
-
-**Aseel Seef Azmy**
-
-- LinkedIn:https://www.linkedin.com/in/aseel-seef-azmy/
